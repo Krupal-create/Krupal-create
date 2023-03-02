@@ -1,4 +1,4 @@
-[![MasterHead](https://www.orientsoftware.com/Media/Default/Images/BlogPost/2022-09-20/most-popular-programming-languages-2.png)]
+![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/0*ngXgBNNdx6iiWP8q.png)
 <h1 align="center">Hi 👋, I'm Kariappa K R</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
