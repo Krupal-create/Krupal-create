@@ -1,18 +1,18 @@
 ![MasterHead](https://cdn-images-1.medium.com/fit/t/1600/480/0*ngXgBNNdx6iiWP8q.png)
 <h1 align="center">Hi 👋, I'm Kariappa K R</h1>
-<h3 align="center">A passionate Application developer from India</h3>
+<h3 align="center">A passionate Application developer and Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krupal-create&label=Profile%20views&color=0e75b6&style=flat" alt="krupal-create" /> </p>
 
 - 🔭 I’m currently working on [Geek Notes](https://github.com/Krupal-create/Geek-Notes)
 
-- 🌱 I’m currently learning **Kivy and Django framework**
+- 🌱 I’m currently learning **Kivy, Django framework and HTML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krupal-create](https://github.com/Krupal-create)
 
 - 📝 I regularly write articles on [https://techmachine.data.blog/](https://techmachine.data.blog/)
 
-- 💬 Ask me about **Kivy, Kivymd**
+- 💬 Ask me about **Kivy, Kivymd, Django, Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
