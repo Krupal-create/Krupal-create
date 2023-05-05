@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Geek Notes](https://github.com/Krupal-create/Geek-Notes)
 
-- 🌱 I’m currently learning **Kivy and Django framework**
+- 🌱 I’m currently learning **Kivy, Django framework, HTML, CSS, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Krupal-create](https://github.com/Krupal-create)
 
