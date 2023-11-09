@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **Python, Kivy Framework, HTML, CSS, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Krupal-create](https://github.com/Krupal-create)
+- 👨‍💻 All of my projects are available at [Krupal-create](https://github.com/Krupal-create)
 
-- 📝 I regularly write articles on [https://techmachine.data.blog/](https://techmachine.data.blog/)
+- 📝 I regularly write articles on [Tech Machine](https://techmachine.me/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Zhk05UHTC8TOpdJsmqIRRvj5r2bu3g-s/view?usp=sharing](https://drive.google.com/file/d/1Zhk05UHTC8TOpdJsmqIRRvj5r2bu3g-s/view?usp=sharing)
 
