@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [Tech Machine](https://techmachine.me/)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Zhk05UHTC8TOpdJsmqIRRvj5r2bu3g-s/view?usp=sharing](https://drive.google.com/file/d/1Zhk05UHTC8TOpdJsmqIRRvj5r2bu3g-s/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZtCKhZ-bHl2B4au0S8j_tnVrD5nb-K0Q/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
