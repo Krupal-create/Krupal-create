@@ -16,7 +16,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/kariappa-k-r-a4a576229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/kariappa-k-r-a4a576229" height="30" width="40" /></a>
 <a href="https://instagram.com/krupal_kallengada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krupal_kallengada" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krupalkariappak1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="krupalkariappak1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
