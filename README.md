@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krupal-create&label=Profile%20views&color=0e75b6&style=flat" alt="krupal-create" /> </p>
 
-- 🔭 I’m currently working on [Geek Notes](https://github.com/Krupal-create/Geek-Notes)
-
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [Krupal-create](https://github.com/Krupal-create)
