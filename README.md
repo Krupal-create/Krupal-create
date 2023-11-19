@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krupal-create&show_icons=true&locale=en&layout=compact" alt="krupal-create" /></p>
 
