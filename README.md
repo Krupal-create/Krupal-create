@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [Tech Machine](https://techmachine.me/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1V9wxcNcFbyW0mQzRdgAlPdiH_1eMvti0/view?usp=drivesdk) 
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1V9wxcNcFbyW0mQzRdgAlPdiH_1eMvti0/view?usp=drivesdk) <br>
 **Connect with me:**<br><br>
 <p align="left">
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/kariappa-k-r-a4a576229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/kariappa-k-r-a4a576229" height="30" width="40" /></a>
