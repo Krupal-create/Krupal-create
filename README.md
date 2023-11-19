@@ -17,7 +17,7 @@
 <a href="https://instagram.com/krupal_kallengada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krupal_kallengada" height="30" width="40" /></a>
 </p>
 
-**Languages and Tools:**<br>
+**Languages and Tools:**<br> <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krupal-create&show_icons=true&locale=en&layout=compact" alt="krupal-create" /></p>
