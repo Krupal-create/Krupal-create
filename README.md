@@ -22,3 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=krupal-create&show_icons=true&locale=en&layout=compact" alt="krupal-create" /></p>
 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
